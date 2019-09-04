@@ -1,7 +1,7 @@
 # Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
 
 My final website view
-https://cmutd.github.io/web_visualization/wind.html
+https://cmutd.github.io/web_visualization/
 
 ## Background
 
